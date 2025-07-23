@@ -1,7 +1,7 @@
 {
     "manufacturer": "Taroken",
     "keyboard_name": "ffpad",
-    "maintainer": "KKentaro",
+    "maintainer": "Taroken",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
     "features": {
