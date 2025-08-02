@@ -4,7 +4,7 @@ However, there are many keys on a keyboard that I don't need, so I made a small 
 Since there are only a few keys, I didn't make a PCB but instead hand-wired them.
 Soldering is quite a hassle, but if you have a 3D printer, you can make it using easily available materials.
 
-![FF Pad](image/pict005.jpg)
+![FF Pad](image/p1.jpg)
 
 It's a macro pad with 5*5 keys, so it's Five * Five Macro Pad, and I named it FF Pad.<br>
 By the way, I also play FINAL FANTASY XIV, and use it almost exclusively as a pad.
