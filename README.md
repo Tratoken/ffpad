@@ -9,6 +9,14 @@ Soldering is quite a hassle, but if you have a 3D printer, you can make it using
 It's a macro pad with 5*5 keys, so it's Five * Five Macro Pad, and I named it FF Pad.<br>
 By the way, I also play FINAL FANTASY XIV, and use it almost exclusively as a pad.
 
+The RP2024-Zero LEDs are lit up by layer.
+* Layer 0: Blue
+* Layer 1: Red
+* Layer 2: Green
+* Layer 3: White
+
+Using transparent key switches and key caps allows you to identify which layer is which by color.
+
 ## Bill Of Materials
 * 25 x diodes 1N4148
 * 25 x Mechanical switches
